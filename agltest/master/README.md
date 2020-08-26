@@ -1,4 +1,4 @@
-# firstapp
+# AglTest
 
 ## Project setup
 ```
